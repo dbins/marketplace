@@ -1,6 +1,6 @@
 # Marketplace -  React Native
 
-![Aplicativo](imagens/aplicativo.jpg)
+![Aplicativo](imagens/aplicativo.png)
 
 Este é um aplicativo de classificados. O aplicativo possui a lista de categorias, anunciantes e um mapa.
 
